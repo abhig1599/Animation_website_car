@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "gilroy";
+    font-family: serif;
 }
 html,body{
     height: 100%;
@@ -89,7 +89,7 @@ html,body{
     left: 0;
     position: absolute;
     line-height: .9;
-    font-family:"kajiro";
+    font-family: fantasy;
     color: azure;
     font-weight: 100;
     font-size: 10vw;
@@ -107,7 +107,8 @@ html,body{
     margin-top: 2vw;
     padding: .8vw 4vw;
     font-size: 3vw;
-    font-family: "kajiro";
+    font-family: fantasy;
+
 }
 #heror p{
     margin-bottom: 50px;
